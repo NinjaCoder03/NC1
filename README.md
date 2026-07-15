@@ -1,4 +1,4 @@
 # NC1
 My first repo
 <br>
-Author:NinjaCoder03
+Author:NinjaCoder_03
